@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /tiktokers/Zach_King/
 ---
 ### zach King
