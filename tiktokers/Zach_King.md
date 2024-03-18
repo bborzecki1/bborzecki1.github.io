@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /tiktokers/Zach_King/
 ---
-# lol
-## jolo
-### zach King
+# Zach King
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Zach_King_%287485332562%29_%28cropped%29.jpg/220px-Zach_King_%287485332562%29_%28cropped%29.jpg"> 

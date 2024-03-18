@@ -47,7 +47,7 @@ def generate_markdown_subfile(output_name):
 layout: page
 permalink: /tiktokers/{output_name}/
 ---
-### {name.replace("_"," ")}
+# {name.replace("_"," ")}
 \n
 {get_wiki_photo(output_name)} \n
 {get_wiki_data(output_name)}

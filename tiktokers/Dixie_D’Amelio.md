@@ -2,7 +2,7 @@
 layout: page
 permalink: /tiktokers/Dixie_D%27Amelio/
 ---
-### Dixie D’Amelio
+# Dixie D’Amelio
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dixie_D%27Amelio_2.jpg/220px-Dixie_D%27Amelio_2.jpg"> 

@@ -2,9 +2,7 @@
 layout: page
 permalink: /tiktokers/Bella_Poarch/
 ---
-
-[comment]: # (komentarz)
-### Bella Poarch
+# Bella Poarch
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bella_Poarch_smiling.jpg/220px-Bella_Poarch_smiling.jpg"> 

@@ -2,8 +2,7 @@
 layout: page
 permalink: /tiktokers/Charli_D%27Amelio/
 ---
-### hmm
-### Charli D’Amelio
+# Charli D’Amelio
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Charli_D%27Amelio_3.jpg/220px-Charli_D%27Amelio_3.jpg"> 

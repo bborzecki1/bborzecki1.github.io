@@ -2,7 +2,7 @@
 layout: page
 permalink: /tiktokers/Kimberly_Loaiza/
 ---
-### Kimberly Loaiza
+# Kimberly Loaiza
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kimberly_Loaiza-fuego2022.png/220px-Kimberly_Loaiza-fuego2022.png"> 

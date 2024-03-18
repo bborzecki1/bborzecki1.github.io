@@ -2,7 +2,7 @@
 layout: page
 permalink: /tiktokers/Khaby_Lame/
 ---
-### Khaby Lame
+# Khaby Lame
 
 
 <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/KhabyLame.jpg/220px-KhabyLame.jpg"> 
